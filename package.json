@@ -5,7 +5,7 @@
   "main": "source/server.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon source/server.ts"
+    "start": "ts-node nodemon source/server.ts"
   },
   "author": "",
   "license": "ISC",
