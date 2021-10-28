@@ -1,0 +1,20 @@
+{
+  "name": "fraud-prevention-officer",
+  "version": "1.0.0",
+  "description": "It is a system to fetch transactions and figure out if it is fraudulent or not, depending on many different parameters. If transactions are identified as fraudulent, the fraud officer can take action by stopping the delivery or changing the payment method, among other things. With your help we will put an end to online fraud!",
+  "main": "source/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon source/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
