@@ -1,8 +1,6 @@
-# Risk Ident Coding Challenge
+# Local Setup
 
-## Local Setup
-
-### Computer Set Up
+## Computer Set Up
 
 - Install Node.js (*latest stable version) & NPM
 - Install typescript globally
